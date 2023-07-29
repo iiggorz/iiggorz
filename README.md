@@ -7,8 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiggorz&show_icons=true&theme=dracula)
 
-![gif](https://media2.giphy.com/media/3o6gEgkb5xqAyMw5Og/giphy.gif)
-
 
 
 
